@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fa7ab3-bf18-484a-9ced-d323f677d449" name="Changes" comment="初始化">
-      <change afterPath="$PROJECT_DIR$/scripts/hello.js" afterDir="false" />
-    </list>
+    <list default="true" id="f2fa7ab3-bf18-484a-9ced-d323f677d449" name="Changes" comment="git测试3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +31,12 @@
     &quot;assignee&quot;: &quot;sheepbillows-stack&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sheepbillows-stack/paiCli.git",
-    "accountId": "1d628fd0-bae9-4fb1-a851-f50e4b9d3ed4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sheepbillows-stack/paiCli.git&quot;,
+    &quot;accountId&quot;: &quot;1d628fd0-bae9-4fb1-a851-f50e4b9d3ed4&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -71,6 +69,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java_project/study/gitStudy/paiCli/scripts",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -98,7 +97,7 @@
       <workItem from="1770600614761" duration="1894000" />
       <workItem from="1778810002533" duration="582000" />
       <workItem from="1778810668966" duration="587000" />
-      <workItem from="1778811280188" duration="151000" />
+      <workItem from="1778811280188" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -116,7 +115,31 @@
       <option name="project" value="LOCAL" />
       <updated>1778811298266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git测试1">
+      <option name="closed" value="true" />
+      <created>1778811455245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778811455245</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git测试2">
+      <option name="closed" value="true" />
+      <created>1778811590394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778811590394</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git测试3">
+      <option name="closed" value="true" />
+      <created>1778811622811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778811622811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +158,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="git测试1" />
+    <MESSAGE value="git测试2" />
+    <MESSAGE value="git测试3" />
+    <option name="LAST_COMMIT_MESSAGE" value="git测试3" />
   </component>
 </project>
